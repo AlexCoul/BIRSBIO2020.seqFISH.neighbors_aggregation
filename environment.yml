@@ -1,7 +1,8 @@
-name: BIRSBio-seqFISH
+name: BIRSBiointegration
 channels:
   - conda-forge
   - defaults
+  - bioconda
 dependencies:
   - umap-learn
   - scikit-learn
