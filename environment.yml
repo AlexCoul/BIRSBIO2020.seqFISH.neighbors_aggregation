@@ -1,0 +1,19 @@
+name: BIRSBio-seqFISH
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - umap-learn
+  - scikit-learn
+  - pandas
+  - pathlib
+  - numpy
+  - seaborn
+  - python=3.7
+  - scipy
+  - matplotlib
+  - dask
+  - hdbscan
+  - scanpy
+  - ipykernel
+  - qtconsole
